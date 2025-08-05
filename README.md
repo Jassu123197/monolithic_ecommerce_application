@@ -1,1 +1,0 @@
-# monolithic_ecommerce_application
